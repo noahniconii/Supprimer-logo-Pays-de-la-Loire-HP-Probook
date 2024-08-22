@@ -1,6 +1,6 @@
-# Supprimer le logo Pays de la Loire HP Probook
+# Supprimer le logo Pays de la Loire sur les pc HP Probook de la région
 
-Tuto pour supprimer le logo de la région Pays de la Loire au démarrage du PC fourni
+Comment supprimer le logo de la région Pays de la Loire au démarrage du PC fourni par la région
 
 
 ## Sommaire
