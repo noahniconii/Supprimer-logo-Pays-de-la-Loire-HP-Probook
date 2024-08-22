@@ -19,7 +19,7 @@ Commencez par installer [Powershell](https://learn.microsoft.com/en-us/powershel
 
 Une fois l'installation faite, télécharger [HP Client Management Script Library (HP CMSL)](https://hpia.hpcloud.hp.com/downloads/cmsl/hp-cmsl-1.7.1.exe), lancer l'installeur et sélectionner bien l'emplacement Powershell s'il ne le choisit pas automatiquement
 
-Lancez Powershell en mode administrateur et utilisez les commandes suivantes
+Lancez Powershell en mode administrateur et utilisez la commande suivante
 
 ```bash
   Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
